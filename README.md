@@ -20,7 +20,7 @@ The platform aims to build a strong, lasting bond between the institute, its stu
 
 This prototype showcases a wide range of features designed to create a vibrant and supportive community:
 
-* **Interactive 3D Globe:** A stunning hero section featuring an interactive 3D globe to represent the global reach of the KCCITM alumni network.
+* **3D Globe:** A stunning hero section featuring an 3D globe to represent the global reach of the KCCITM alumni network.
 * **Alumni Spotlight:** A dynamic carousel that highlights the stories and achievements of distinguished alumni.
 * **Live Job Board:** A mockup of a live job board where alumni can post opportunities, and students can find internships and full-time positions.
 * **Dynamic Social Feed:** A realistic preview of the platform's social hub, where users can share updates, successes, and connect with peers.
@@ -38,7 +38,6 @@ This is a static front-end prototype built with modern web technologies:
 * **HTML5:** For the core structure and content.
 * **CSS3:** For all styling, including custom properties, Flexbox, Grid, and advanced animations (keyframes, transitions).
 * **JavaScript (ES6):** For DOM manipulation, scroll-based animations (Intersection Observer), and dynamic features.
-* **Three.js:** For the interactive 3D globe animation in the hero section.
 
 ---
 
