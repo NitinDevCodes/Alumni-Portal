@@ -1,6 +1,6 @@
 # CampusCord - KCCITM Alumni Platform
 
-![CampusCord Hero Section](https://i.imgur.com/8Q9f4sX.png)
+![CampusCord Hero Section]
 
 ## 🚀 Introduction
 
