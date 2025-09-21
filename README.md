@@ -48,7 +48,7 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/campuscords.git](https://github.com/your-username/campuscords.git)
+    git clone [https://github.com/NitinDevCodes/campuscords.git](https://github.com/NitinDevCodes/campuscords.git)
     ```
 
 2.  **Navigate to the project directory:**
