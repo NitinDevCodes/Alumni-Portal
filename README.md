@@ -1,7 +1,5 @@
 # CampusCord - KCCITM Alumni Platform
 
-[CampusCord Hero Section]
-
 ## 🚀 Introduction
 
 **CampusCord** is a modern, feature-rich alumni engagement platform designed for the KCC Institute of Technology and Management (KCCITM). This project was developed as a high-fidelity, interactive prototype for the Smart India Hackathon (SIH) 2025, addressing the problem statement of creating a centralized system for alumni data management and engagement.
